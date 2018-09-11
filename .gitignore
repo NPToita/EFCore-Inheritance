@@ -3,3 +3,7 @@
 ################################################################################
 
 /EfCore.Domain/EfCore.Data/obj
+/EfCore.Domain/EfCore.Domain/obj
+/EfCore.Domain/.vs/EfCore.Domain/v15
+/EfCore.Domain/EfCore.Tests/bin/Debug/netcoreapp2.1
+/EfCore.Domain/EfCore.Tests/obj
